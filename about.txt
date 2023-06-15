@@ -1,0 +1,3 @@
+ABOUT
+-XHR
+-get request (externat API)
